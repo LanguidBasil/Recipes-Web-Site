@@ -19,4 +19,13 @@ ol {
 .header {
     text-align: center;
 }
+.header a {
+    font-size: 1em;
+}
+
+p,
+a,
+li {
+    font-size: 1.1em;
+}
 
