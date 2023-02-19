@@ -1,0 +1,19 @@
+
+* {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+img {
+    height: 300px;
+    width: auto;
+    
+    display: block;
+    margin: 0 auto;
+}
+
+ul,
+ol {
+    background-color: #eeeeee;
+}
+
+
